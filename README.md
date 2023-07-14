@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhami11
-- 👀 I’m interested in MERN STACK & BLOCKCHAIN
+- 👀 I’m interested in MERN STACK & AI !
 - 🌱 I’m currently learning JavaScript,TypeScript & React 
 - 💞️ I’m looking to collaborate on New & Exciting Problems
 - 📫 How to reach me : Twitter @dhami451
