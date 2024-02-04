@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Dhami</h1>
-<h3 align="center">A passionate software engineer from Paskistan</h3>
-<img align="right" alt="coding" width="350" src="https://64.media.tumblr.com/23a8255547812a21c3a00f25bb885ed0/tumblr_n6wfejlMVr1relaado1_400.gif"
+<h3 align="center">A passionate software engineer from Pakistan</h3>
+<img align="right" alt="coding" width="450" src="https://64.media.tumblr.com/23a8255547812a21c3a00f25bb885ed0/tumblr_n6wfejlMVr1relaado1_400.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhami11&label=Profile%20views&color=0e75b6&style=flat" alt="dhami11" /> </p>
 
