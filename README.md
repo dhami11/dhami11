@@ -30,9 +30,9 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
 <a href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-<a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/logo.svg" alt="zustand" width="40" height="40"/> </a>
+<a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/45790596?s=48&v=4" alt="zustand" width="40" height="40"/> </a>
 <a href="https://github.com/colinhacks/zod" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg" alt="zod" width="40" height="40"/> </a>
-<a href="https://github.com/jquense/yup" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jquense/yup/main/logo.svg" alt="yup" width="40" height="40"/> </a>
+<a href="https://github.com/jquense/yup" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/339286?s=48&v=4" alt="yup" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
