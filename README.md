@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/dhami451" target="blank"><img src="https://img.shields.io/twitter/follow/dhami451?logo=twitter&style=for-the-badge" alt="dhami451" /></a> </p>
 
-- 🌱 I’m currently working as a **Frontend Engineer @Sensys**
-
 - 💬 Ask me about **Typescript, Nextjs, React**
 
 - 📫 How to reach me **dhami451@gmail.com**
